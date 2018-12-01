@@ -1,7 +1,7 @@
 # Udacity-Data-Analyst-Nanodegree
 A collection of my projects for Udacity  [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
-# Finding Donors for CharityML
+# Finding Donors for CharityML [Link] (https://github.com/rifanditto/DSND_Term1/blob/master/projects/p1_charityml/finding_donors.ipynb)
 
 Investigated factors that affect the likelihood of charity donations being made based on real census data. Developed a naive classifier to compare testing results to. Trained and tested several supervised machine learning models on preprocessed census data to predict the likelihood of donations. Selected the best model based on accuracy, a modified F-scoring metric, and algorithm efficiency.
 
